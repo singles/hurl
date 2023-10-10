@@ -1,3 +1,4 @@
+TESTING 
 error: HTTP connection
   --> ssl/error_self_signed_certificate.hurl:1:5
    |
